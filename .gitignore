@@ -1,0 +1,24 @@
+# Environnement Python
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Alembic
+alembic/versions/*.py
+!alembic/versions/__init__.py
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store

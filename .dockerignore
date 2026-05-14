@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.git/
+.gitignore
+.pre-commit-config.yaml
+.vscode/
+.idea/
